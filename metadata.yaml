@@ -1,0 +1,33 @@
+_repo: Studies-and-Essays--The-Inn-of-Tranquility-and-Others_2903
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: Title; Contents; The Inn of Tranquillity; Magpie Over the Hill; Sheep-Shearing;
+  Evolution; Riding in Mist; The Procession; A Christian; Wind in the Rocks; My Distant
+  Relative; The Black Godmother.
+gutenberg_issued: '2004-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Essays'
+- !lcsh 'Autobiographical fiction'
+- GITenberg
+tableOfContents: The Inn of Tranquillity -- Magpie over the hill -- Sheep-shearing
+  -- Evolution -- Riding in mist -- The procession -- A Christian -- Wind in the rocks
+  -- My distant relative -- The black godmother.
+title: 'Studies and Essays: The Inn of Tranquility, and Others'
+url: http://www.gutenberg.org/ebooks/2903
