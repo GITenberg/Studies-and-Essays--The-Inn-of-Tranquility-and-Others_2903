@@ -1,5 +1,8 @@
 _repo: Studies-and-Essays--The-Inn-of-Tranquility-and-Others_2903
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -12,6 +15,8 @@ creator:
 description: Title; Contents; The Inn of Tranquillity; Magpie Over the Hill; Sheep-Shearing;
   Evolution; Riding in Mist; The Procession; A Christian; Wind in the Rocks; My Distant
   Relative; The Black Godmother.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2903#Studies-and-Essays--The-Inn-of-Tranquility-and-Others
 gutenberg_issued: '2004-09-24'
 gutenberg_type: Text
 identifiers:
